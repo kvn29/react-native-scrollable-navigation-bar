@@ -28,7 +28,9 @@ function isIphoneX() {
       dimen.height === 874 ||
       dimen.width === 874 ||
       dimen.height === 852 ||
-      dimen.width === 852
+      dimen.width === 852 ||
+      dimen.height === 912 ||
+      dimen.width === 912
     )
   );
 }
